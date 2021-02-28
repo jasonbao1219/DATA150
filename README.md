@@ -6,3 +6,5 @@
 2. [Amartya Sen Response 2/16](https://jasonbao1219.github.io/DATA150/AmartyaSen.html)
 
 ## Formal Exercises
+
+1. [Assignment 1: Annotated Bibliography](https://jasonbao1219.github.io/DATA150/AnnotatedBibliography.html)
