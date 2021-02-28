@@ -46,3 +46,22 @@ With the forthcoming technological progresses in the field of geomatics and data
 
 Reference:
 Doran, M.-A., & Daniel, S. (2014). Geomatics and Smart City: A transversal contribution to the Smart City development. Information Polity: The International Journal of Government & Democracy in the Information Age, 19(1/2), 57–72. https://doi.org/10.3233/IP-140330 
+
+## Article 4: Analysis of Population Growth and Urban Development in Lahore-Pakistan using Geospatial Techniques: Suggesting some future Options.
+### Authors: Safdar Ali Shirazi, Syed Jamil Kazmi
+
+The growth of world population in the past decades has brought both positive and negative effects to the society, especially to the urban setting; along with the rapid economic development, a booming population also leads to “overcrowding in cities and loss of valuable green areas and indigenous vegetation within and outside the city.” The authors highlighted several important techniques that help the researchers assess and monitor urban development, including Land Use and the Land Cover (LULC), remote sensing and GIS. 
+
+Population is center in all geospatial as well as urban studies. Here the authors introduce the target city of the study, Lahore in Pakistan, citing its population data of the past centuries that results in a sixfold increase due to factors such as rural to urban migration.
+
+Like many other geospatial studies, the image-processing technique of remote sensing is crucial in this study, creating a base map that “is the only entity which directs the data to a clear spatial dimension;” along with surveying data from the Survey of Pakistan and other government institutions, the researchers have created a suitable base map for GIS modeling. 
+
+Since the researchers are interested in the past development of the city of Lahore, the source maps were scanned for digitalization. So that the growth map of Lahore can be developed; during the period of 63 years since Independence, Lahore has “has resulted in major development in south and southeast directions” due to physical barriers and national boundary; it is also worth noting that the physical growth of the city “has been along major roads.”
+
+In conclusion, the authors argue that the development of cities are affected by “numerous constraints” such as rivers and borders; additionally, “intangible constraints” that are not easy to quantify also contributes to the physical configuration of a city, such as “congestion at the City center, traffic problems, solid waste management, and depleted housing conditions.” Despite the setbacks, the city of Lahore still grew rapidly in the past decades, which can be seen from the loss of vegetations. Based on the evidence, the authors suggests the future development direction of Lahore as well as vows for the protection of Lahore’s local vegetation. Systematic monitoring of the urban development, proper
+management of the City and planned future development would lead to improvement in the living standards and environmental conditions of the millions of people living in the city; Remote sensing along with the GIS technology can be used effectively and economically in the analysis and the inventory of urban development, land use / land cover study of the urban settlements and the vegetation.
+
+This paper is related to Sen’s definition of human development by applying the geospatial technologies such as remote sensing and GIS to map and analyze an actual city, identifying its development trend and current issues. The goal of sustainable cities and communities is in relation to this article. The datasets of GIS, Survey of Pakistan are used; the technologies include remote sensing and geospatial scanning and mapping.
+
+Reference:
+Shirazi, S. A., & Kazmi, S. J. H. (2014). Analysis of Population Growth and Urban Development in Lahore-Pakistan using Geospatial Techniques: Suggesting some future Options. South Asian Studies (1026-678X), 29(1), 269–280.
