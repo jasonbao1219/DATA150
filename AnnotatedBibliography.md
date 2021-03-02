@@ -65,3 +65,5 @@ This paper is related to Sen’s definition of human development by applying the
 
 Reference:
 Shirazi, S. A., & Kazmi, S. J. H. (2014). Analysis of Population Growth and Urban Development in Lahore-Pakistan using Geospatial Techniques: Suggesting some future Options. South Asian Studies (1026-678X), 29(1), 269–280.
+
+In conclusion, the four articles all discuss the social and economic problems that overloaded urban population has brought to the society. They provide solutions by either introducing a new concept, technique or analyzing the population trend of an existing city. I have found it effective and useful to apply geospatial technologies to obtain data about population movement and trend, namely, breaking down the large chuck of population into units of blocks and buildings, therefore identifying and mapping the local functionalities and the population compactness of a city. The data and population maps obtained will be analyzed to better understand urban population as well as to improve and optimize the urban environment.
