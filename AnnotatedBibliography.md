@@ -1,5 +1,7 @@
 # Research Topic: Population and Urbanization
 
+Word Count: 2170
+
 ## Article 1: Measuring urban compactness based on functional characterization and human activity intensity by integrating multiple geospatial data sources
 ### Authors: Ting Lan, Guofan Shao, Zhibang Xu, Lina Tang, Lang Sun
 
