@@ -11,10 +11,17 @@ In this section, I will introduce Agent-Based Modeling (ABM), a geospatial data 
 This literature review has proposed a research question to utilize geospatial technologies to improve human’s well-being in the urban environment, examined the recent studies of urban population studies pointing out their strengths and weaknesses, and introduced the Agent-Based Model and its application to suggest a method for improvement of the preciseness and trustworthiness of geospatial urban studies. The main gaps identified in the study are the limitations of the data which the researchers are able to collect, the failure for the models to stimulate at the individual level, as well as the privacy concerns of citizens. In the section above, the ABM model is able to solve some of the problems, but there are few studies that directly apply ABM model to identify and address urban population problems. So the essential research question is, how can we identify, measure, and resolve urban development problems in order to improve urban living environment as well as transform to a more sustainable city?
 
 References:
+
 Lan, T., Shao, G., Xu, Z., Tang, L., & Sun, L. (2021). Measuring urban compactness based on functional characterization and human activity intensity by integrating multiple geospatial data sources. Ecological Indicators, 121, N.PAG. https://doi.org/10.1016/j.ecolind.2020.107177 
+
 Yao, Y., Liu, X., Li, X., Zhang, J., Liang, Z., Mai, K., & Zhang, Y. (2017). Mapping fine-scale population distributions at the building level by integrating multisource geospatial big data. International Journal of Geographical Information Science, 31(6), 1220–1244. https://doi.org/10.1080/13658816.2017.1290252
+
 Xie, Z., Ye, X., Zheng, Z., Li, D., Sun, L., Li, R., & Benya, S. (2019). Modeling Polycentric Urbanization Using Multisource Big Geospatial Data. Remote Sensing, 11(3), 310. https://doi.org/10.3390/rs11030310 
+
 Shirazi, S. A., & Kazmi, S. J. H. (2014). Analysis of Population Growth and Urban Development in Lahore-Pakistan using Geospatial Techniques: Suggesting some future Options. South Asian Studies (1026-678X), 29(1), 269–280. 
+
 Yang, L., Hoffmann, P., Scheffran, J., Rühe, S., Fischereit, J., & Gasser, I. (2018). An Agent-Based Modeling Framework for Simulating Human Exposure to Environmental Stresses in Urban Areas. Urban Science, 2(2), 36. doi:10.3390/urbansci2020036 
+
 Conte, R., &amp; Paolucci, M. (2014, June 10). On agent-based modeling and computational social science. Retrieved March 22, 2021, from https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00668/full 
+
 Kim, I.-H., Tsou, M.-H., & Feng, C.-C. (2015). Design and implementation strategy of a parallel agent-based Schelling model. Computers, Environment & Urban Systems, 49, 30–41. https://doi.org/10.1016/j.compenvurbsys.2014.09.004 
