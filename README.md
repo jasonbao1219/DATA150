@@ -7,6 +7,7 @@
 3. [Kitchin Response 3/9](https://jasonbao1219.github.io/DATA150/KitchinResponse.html)
 4. [Barder Response 3/16](https://jasonbao1219.github.io/DATA150/BarderDevelopment.html)
 5. [Slice of Data Science Response 3/25](https://jasonbao1219.github.io/DATA150/SoDSResponse.html)
+6. [Assignment 3 Intro + Problem Statement 3/30](https://jasonbao1219.github.io/DATA150/Assignment3Intro.html)
 
 ## Formal Assignments
 
