@@ -51,5 +51,3 @@ Shirazi, S. A., & Kazmi, S. J. H. (2014). Analysis of Population Growth and Urba
 Yang, L., Hoffmann, P., Scheffran, J., Rühe, S., Fischereit, J., & Gasser, I. (2018). An Agent-Based Modeling Framework for Simulating Human Exposure to Environmental Stresses in Urban Areas. Urban Science, 2(2), 36. doi:10.3390/urbansci2020036 
 
 Conte, R., &amp; Paolucci, M. (2014, June 10). On agent-based modeling and computational social science. Retrieved March 22, 2021, from https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00668/full 
-
-Kim, I.-H., Tsou, M.-H., & Feng, C.-C. (2015). Design and implementation strategy of a parallel agent-based Schelling model. Computers, Environment & Urban Systems, 49, 30–41. https://doi.org/10.1016/j.compenvurbsys.2014.09.004 
