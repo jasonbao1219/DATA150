@@ -17,11 +17,15 @@ The type of inquiry would be evaluative, as this paper mainly focuses on evaluat
 
 ## Machine Learning
 The first introduced data science research method will be Machine Learning. By definition, machine learning uses computer algorithms that is able to improve itself through the use and experience of data. It constructs a model based on training data and is capable to make predictions or decisions without explicit programming for such functions. In its specific applications that utilizes geospatial datasets including VIIRS Nighttime Light and MODIS Daytime MDVI data, machine learning is able to measure the extents of urban areas with a high accuracy > 95% (Liu 2019). Since the dynamic of machine learning requires the researchers to build different models which classify the data by taking a weighted vote of the individual classifier predictions, in the study the author utilizes Random forest (RF), gradient boosting machine (GBM), neural network (NN), and their ensemble (ESB), with the same datasets of nighttime and daytime data as inputs, explores and compares their effectiveness. For each 500m location, there is a 2-dimension vector involving the two datasets://
+
 Z (i, j) = (VIIRS (i, j), MODIS (i, j)), 
 
 Where:
+
 VIIRS (i, j) = VIIRS nighttime light luminosity at pixel (i, j)
+
 MODIS (i, j) = MODIS NDVI at pixel (i, j)
+
 Below is the entire workflow of this study, the sections highlighted in blue are the machine learning applications of it. As we can see, the three trained models give their own predictions of the degree of urban extent, then, a weighted vote (ESB) will be taken into account, generating modified result; finally, it will be compared with the sample to determine the accuracies of machine learning in this study.
 ![ML](https://github.com/[jasonbao1219]/[DATA150]/ML.jpg?raw=true)
 
@@ -29,6 +33,7 @@ Below is the entire workflow of this study, the sections highlighted in blue are
 ## Agent-Based Modeling
 Now we have understood the mechanisms of machine learning’s role in urban data extraction. Another important research method that is often employed in urban-related studies is Agent-Based Modeling (ABM). An agent-based model is a class of computational models that simulating the actions and behaviors of autonomous individual to assess their effects on the system as a whole. In other words, it models behaviors of citizens and observe the consequence effects of their daily actions on the city itself. In a study that utilizes ABM to simulate human exposure to urban environmental stresses (Yang 2018). Although it does not completely align with our original research question of urban data extraction for city improvement, we are still able to gain valuable insights of the dynamics, mechanism and unique characteristics of Agent-Based Modeling. It first constructs the framework with three overlapping layers: “spatial data of the concerned urban environment, concentrations of environmental stress sources, and human activities.” Within this framework, environmental stress sources that vary by times of a day are seen as factors that influence the exposures of individual agents, who “dynamically follow their daily life according to predetermined rules that are set according to empirical studies and specific surveys.” During the simulation, the model collects and summarizes “both individual and collective exposure and inform relevant exposure reduction strategies,” so the pollution exposures to human beings can be measured and analyzed. Due to the fact that the urban population is extremely diversified and they all behave in their unique ways, the researchers “group people with similar attributes and behaviors” with all kinds of personal characteristics including “age, gender, work, income, education, living and working location, and access to cars or public transport, as well as the environmental conditions.” Below is an example of a 35 years old employed female’s daily routine, in which p is the priority of that action.
 ![ABM](https://github.com/[jasonbao1219]/[DATA150]/ABM.jpg?raw=true)
+
 Ei (x, t) = Ai (x, t) * H (x, t) is the mathematical exposure formula, in which H is a constant underlying stress vector while Ai depends on the activity performed at time-step t and the safety level assumed for this individual i. 
 
 
