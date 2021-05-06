@@ -14,4 +14,4 @@
 1. [Assignment 1: Annotated Bibliography](https://jasonbao1219.github.io/DATA150/AnnotatedBibliography.html)
 2. [Assignment 2: Literature Review](https://jasonbao1219.github.io/DATA150/LiteratureReview.html)
 3. [Assignment 3: Methodological Investigation](https://jasonbao1219.github.io/DATA150/MethodologicalInvestigation.html)
-4. [Assignment 4A: Presentation](https://jasonbao1219.github.io/DATA150/MethodologicalInvestigation.html)
+4. [Assignment 4A: Presentation]![PPT](https://github.com/jasonbao1219/DATA150/blob/main/Learn%20from%20city%2C%20and%20optimize%20them..pptx )
