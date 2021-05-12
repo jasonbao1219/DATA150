@@ -15,4 +15,4 @@
 2. [Assignment 2: Literature Review](https://jasonbao1219.github.io/DATA150/LiteratureReview.html)
 3. [Assignment 3: Methodological Investigation](https://jasonbao1219.github.io/DATA150/MethodologicalInvestigation.html)
 4. Assignment 4A: Presentation [PowerPoint](https://jasonbao1219.github.io/DATA150/Learn%20from%20city%2C%20and%20optimize%20them..pdf)
-5. [Assignment 5: Research Proposal](https://jasonbao1219.github.io/DATA150/ResearchProposal.html)
+5. [Assignment 4B: Research Proposal](https://jasonbao1219.github.io/DATA150/ResearchProposal.html)
