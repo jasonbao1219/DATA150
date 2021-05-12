@@ -28,23 +28,25 @@ Now we have understood the mechanisms of machine learning’s role in urban data
 
 So far, we have recognized and examined existing data science research methods as well as their mechanisms. But what might be some gaps or shortcomings of the current methodologies?  One possible limitation of the proposed research methods is the inability to fully verify the accurateness of the commutated outcome. For example, the ABM model was successfully deployed to measure citizen’s exposure to environmental stressors in the city of Hamburg, but only reached an conclusion in an idealized situation; Although the accuracy rate for the Machine Learning study is high, it is calculated through inputting decades-old data and comparing the outcome with the current city development extent; The accuracy improved significantly compared with the 20-years-older GRUMP dataset, however the new dataset’s ability to predict future remains unknown.
 
-## Research Proposal/Design
+## Research Design
+
+### Proposal
 
 Based on the identified gaps as well as the characteristics of the central problem and different methodologies, I would like to propose a new model that dynamically combines both the data science research method Machine Learning and Agent-Based Modeling. Through this innovation, the scientists and city planners will be able to create a digital copy of the target city, simulating the exact environment of the city, actions of citizens, as well as outside factors such as weather and pollution. It includes the best features of both methods: the realistic simulations from agent-based modeling plus the superior predictability from machine learning. In the most idealized situation, this powerful model will be able to mirror the effects of an external factor, such as a policy of increasing the parking fines, the construction of a new bridge, or a sandstorm, on the city itself as well as the consequent change in behaviors of citizens. The researchers and planners will be able to observe the effects first and foremost; additionally, the power of machine learning, with the training from sample data, will be able to make accurate predictions that reflect the consequences of such actions in the future. In other words, it has the ability to calculate the resulting influences of the factor on the city within the time range of one day, several weeks, or even a month and beyond. 
 
 Basically, it is an experimental version of cities; however, thanks to the digitalization and the power of data science, unlike realistic cities, it allows infinite number of mistakes. The most outstanding benefit and significance of this research is the minimization of the costs of deficient policy implementations; people no longer need to consider the time and money wasted on the possibly vain policies, as every policy can now be tested and analyzed online, drastically decreasing the cost. 
 
-## An Economically Viable Project
+### An Economically Viable Project
 
 As I have stated in the paragraph above, this is a research project that necessitates investment now, but returns a major saving once the model is realized by minimizing testing costs on real cities. It holds the strength with both data science models but exclude the weaknesses of each. Furthermore, it will not be a money-consuming project, as most of the development process is conducted digitally, including the integration of system, input of data, programming codes and maintenance. To sum up, it is a worthy-investing research project that not only makes much economic sense, but also is a valuable innovation for data science, as it explores the integration of different research methods.
 
-## Possible Setbacks
+### Possible Setbacks
 
 However, it is also important to acknowledge the possible setbacks of this project. First of all, because it is first of its kind, it is unknown that how much time precisely do we need to seamlessly incorporate the two distinct methodologies together. Furthermore, It is highly likely for people to increase their reliance on these types of technologies due to its convenience, which in turns reduce the incentives for further innovation and research awfully since the current ones are useful enough.  
 
 This argument is similar to an opinion provided by Chris Anderson, who in his article The End of Theory: The Data Deluge Makes the Scientific Method Obsolete argues that the rapid development of big data will be able to replace traditional experiment methods completely. Instead of focusing solely on the outcome, we should weigh the outcome and the exploration process equally in order to encourage new researches and discoveries.
 
-## Budget Plan
+### Budget Plan
 
 Last but not least, this proposal will introduce a strategic research plan that has a budget of $100,000 and an exploratory phase of one year. Of the $100,000, the majority will be devoted for the software development and research of this model. Around $60,000 will be spent in this criterion alone; another important part would be the hardware support, as well as the necessary purchase of equipment, collections of datasets and databases; an estimated amount of $25,000 will be spent in this category. After the initial development, a field test is necessary to experiment the actual functionality of the model. The researchers will select an adequate city, and the planning, mapping, and testing will cost the project around $7,000. The use of the rest $8,000 will be determined as the project proceeds, to supplement any parts that requires additional funding. 
 
