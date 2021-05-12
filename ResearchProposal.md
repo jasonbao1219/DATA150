@@ -57,7 +57,10 @@ This is my research proposal to solve the central question, how can data science
 ## References
 
 Anderson, C. (2018, January 26). The End of Theory: The Data Deluge Makes the Scientific Method Obsolete. Wired. https://www.wired.com/2008/06/pb-theory/
+
 Liu, X., de Sherbinin, A., & Zhan, Y. (2019). Mapping Urban Extent at Large Spatial Scales Using Machine Learning Methods with VIIRS Nighttime Light and MODIS Daytime NDVI Data. Remote Sensing, 11(10), 1247. doi:10.3390/rs11101247
+
 United Nations. (n.d.). THE 17 GOALS | Sustainable Development. United Nations. https://sdgs.un.org/goals.
+
 Yang, L., Hoffmann, P., Scheffran, J., Rühe, S., Fischereit, J., & Gasser, I. (2018). An Agent-Based Modeling Framework for Simulating Human Exposure to Environmental Stresses in Urban Areas. Urban Science, 2(2), 36. doi:10.3390/urbansci2020036 
 
